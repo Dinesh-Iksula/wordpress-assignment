@@ -1,3 +1,4 @@
+<? php
 function feedback_list_shortcode() 
 {
     global $wpdb;
