@@ -1,3 +1,4 @@
+<? php
 function feedback_form_shortcode() {
     ob_start(); ?>
 
